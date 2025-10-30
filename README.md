@@ -1,1 +1,1 @@
-# my-first-power-bi-project
+# power-bi-project
