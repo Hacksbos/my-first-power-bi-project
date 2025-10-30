@@ -2,7 +2,6 @@
 <h1 align="center">ℍ𝕚 👋, 𝕀'𝕞 𝕊𝕒𝕟𝕛𝕖𝕖𝕥 𝕜𝕦𝕞𝕒𝕣 </h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeet-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeet-kumar" /> </p>
 
 - <img  align="right" alt="DAta Analyst" width="400" src="https://i.gifer.com/UXU4.gif" alt="Description">
